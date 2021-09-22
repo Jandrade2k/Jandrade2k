@@ -1,4 +1,4 @@
-## Opa! Eu sou o Jão😁 
+## Opa! Eu sou o João😁 
  <div>
   <a href="https://github.com/Jandrade2k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jandrade2k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
