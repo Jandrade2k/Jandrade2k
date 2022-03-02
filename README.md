@@ -23,3 +23,5 @@
  
  
 </div>
+ 
+ ![Snake animation](https://github.com/Jandrade2k/Jandrade2k/blob/output/github-contribution-grid-snake.svg)
